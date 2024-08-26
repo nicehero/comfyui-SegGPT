@@ -8,6 +8,6 @@ pip install -r requirements.txt
 ```
 ### Usage
 
-<!-- <div align="center">
-<image src="workflow.png"  />
-</div> -->
+<div align="center">
+    <img src="https://raw.githubusercontent.com/nicehero/comfyui-SegGPT/main/workflow.png"/>
+</div>
