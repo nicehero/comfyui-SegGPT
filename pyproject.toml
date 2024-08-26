@@ -1,7 +1,7 @@
 [project]
 name = "comfyui-seggpt"
 description = "SegGPT model for comfyui,segmentation everything with mask prompt. Download (https://huggingface.co/BAAI/SegGPT/blob/main/seggpt_vit_large.pth) in this node path."
-version = "1.0.1"
+version = "1.0.2"
 license = {file = "LICENSE"}
 
 [project.urls]
@@ -10,5 +10,5 @@ Repository = "https://github.com/nicehero/comfyui-SegGPT"
 
 [tool.comfy]
 PublisherId = "nicehero"
-DisplayName = "comfyui-SegGPT"
+DisplayName = "nicehero"
 Icon = ""
